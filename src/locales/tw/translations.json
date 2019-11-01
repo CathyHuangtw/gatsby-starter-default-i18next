@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "English": "英語",
+    "Traditional Chinese": "繁體中文",
+    "Simplified Chinese": "簡體中文"
+  },
+  "site": {
+    "Gatsby Default Starter": "Gatsby啟動專案"
+  },
+  "home": {
+    "test": "哈囉",
+    "title": "嗨!大家好",
+    "content": "歡迎來到你新的Gatsby網站.\n開始建置很棒的內容吧!",
+    "link": "進入第2頁"
+  },
+  "page2": {
+    "title": "嗨,這是第2頁",
+    "content": "歡迎來到第2頁",
+    "link": "回首頁"
+  }
+}

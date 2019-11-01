@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "English": "English",
+    "Traditional Chinese": "Traditional Chinese",
+    "Simplified Chinese": "簡體中文"
+  },
+  "site": {
+    "Gatsby Default Starter": "Gatsby Default Starter"
+  },
+  "home": {
+    "test": "hello",
+    "title": "Hi people",
+    "content": "Welcome to your new Gatsby site.\nNow go build something great.",
+    "link": "Go to page 2"
+  },
+  "page2": {
+    "title": "Hi from the second page",
+    "content": "Welcome to page 2",
+    "link": "Go back to the homepage"
+  }
+}

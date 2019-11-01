@@ -1,0 +1,47 @@
+{
+  "name": "gatsby-starter-default-i18next",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Gatsby and i18next",
+  "version": "0.1.0",
+  "author": "Cathy Huang <hello@cathy-huang.com>",
+  "dependencies": {
+    "@material-ui/core": "^4.5.2",
+    "gatsby": "^2.17.6",
+    "gatsby-image": "^2.2.30",
+    "gatsby-plugin-layout": "^1.1.13",
+    "gatsby-plugin-manifest": "^2.2.25",
+    "gatsby-plugin-offline": "^3.0.17",
+    "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-sharp": "^2.2.34",
+    "gatsby-source-filesystem": "^2.1.35",
+    "gatsby-transformer-sharp": "^2.3.1",
+    "i18next": "^19.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "react-i18next": "^11.0.1"
+  },
+  "devDependencies": {
+    "gatsby-plugin-root-import": "^2.0.5",
+    "prettier": "^1.18.2"
+  },
+  "keywords": [
+    "gatsby",
+    "react-i18next",
+    "i18next"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  }
+}
