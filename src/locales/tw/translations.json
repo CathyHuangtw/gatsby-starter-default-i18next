@@ -1,11 +1,7 @@
 {
-  "navbar": {
-    "English": "英語",
-    "Traditional Chinese": "繁體中文",
-    "Simplified Chinese": "簡體中文"
-  },
   "site": {
-    "Gatsby Default Starter": "Gatsby啟動專案"
+    "Gatsby Default Starter": "Gatsby 起始專案",
+    "footer": "使用 Gatsby 建置"
   },
   "home": {
     "test": "哈囉",

@@ -209,7 +209,7 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
-img {
+.astronaut {
   max-width: 100%;
   margin-left: 0;
   margin-right: 0;

@@ -1,11 +1,7 @@
 {
-  "navbar": {
-    "English": "English",
-    "Traditional Chinese": "Traditional Chinese",
-    "Simplified Chinese": "簡體中文"
-  },
   "site": {
-    "Gatsby Default Starter": "Gatsby Default Starter"
+    "Gatsby Default Starter": "Gatsby Default Starter",
+    "footer": "Built with Gatsby"
   },
   "home": {
     "test": "hello",

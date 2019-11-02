@@ -8,6 +8,9 @@ const Header = ({ siteTitle }) => (
     style={{
       background: `rebeccapurple`,
       marginBottom: `1.45rem`,
+      display: `flex`,
+      justifyContent: `center`,
+      alignItems: `center`
     }}
   >
     <div
@@ -19,8 +22,7 @@ const Header = ({ siteTitle }) => (
     >
       <h1 
         style={{ 
-          margin: `20px`,
-          display: `inline`
+          margin: `20px 100px`
         }}
       >
         <Link
@@ -33,8 +35,8 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      <LanguageMenu></LanguageMenu>
     </div>
+    <LanguageMenu></LanguageMenu>
   </header>
 )
 
