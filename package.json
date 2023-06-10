@@ -6,7 +6,7 @@
   "author": "Cathy Huang <hello@cathy-huang.com>",
   "dependencies": {
     "@material-ui/core": "^4.5.2",
-    "gatsby": "^2.17.6",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-layout": "^1.1.13",
     "gatsby-plugin-manifest": "^2.2.25",
